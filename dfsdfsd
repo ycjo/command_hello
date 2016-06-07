@@ -1,0 +1,61 @@
+[33mcommit c8f1c8d3da2571a81e1686ef2890248e98a0e05e[m
+Merge: e71558d 8d51f7b
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 17:45:01 2016 +0900
+
+    conflict resolved
+
+[33mcommit 8d51f7b7c4ee4892256c747ba469a8ad2124cc16[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 17:43:35 2016 +0900
+
+    hotfix
+
+[33mcommit e71558dd6f50c9aa5e481b285e32bb9b0e4e29d7[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 17:42:21 2016 +0900
+
+    master
+
+[33mcommit 06b1401bed025fe61ae9cdca0093d36fd68da552[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:57:40 2016 +0900
+
+    added '.gitignore' file
+
+[33mcommit d3337e1955773ab914da7c04d3899d379f85b997[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:50:09 2016 +0900
+
+    i
+
+[33mcommit c5333cefef59a578e926dc8f1f6fb80fef7a0897[m
+Merge: 4ad14df d72e6a0
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:45:23 2016 +0900
+
+    Merge branch 'hotfix'
+
+[33mcommit d72e6a079a98ddc3a658e6878d7b9a39e5c4f8ff[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:37:11 2016 +0900
+
+    added output
+
+[33mcommit ebe6c8fffedb54e2c4f4cf615b02a34f1358b881[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:16:44 2016 +0900
+
+    create 'hello world1 program'
+
+[33mcommit 4ad14dfaf49a13466ab0f2b900d23761d108da26[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:16:44 2016 +0900
+
+    create 'hello world1 program'
+
+[33mcommit a11920de5f470640c2d46d44a5fabbcb24c97fdb[m
+Author: jyc <youngchanmmm@naver.com>
+Date:   Fri Jun 3 10:10:32 2016 +0900
+
+    create 'hello world program'
